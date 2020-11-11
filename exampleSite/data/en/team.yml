@@ -3,6 +3,16 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: JOHNNY TOLEDO
+    image_webp: ''
+    image: "/images/johnny.jpg"
+    designation: ACCOUNT DIRECTOR
+    content: |+
+      For the last 14 years, Johnny Toledo has lived and breathed marketing through many disciplines including Event/Experiential, Sponsorship, Retail, Direct and Digital. Shortly after graduating from USC, he stumbled into marketing by chance as a set up crew member and has since played various roles from Event Manager to Account Director.
+
+      During the course of his career he has worked on creating marketing solutions for brands such as: AT&T, State Farm, Disneyland, Pernod Ricard, Mercedes Benz, PepsiCo. and General Mills. He joins Revolucion with vast experience and a passion for creating and executing forward thinking ideas.
+
+    social: ''
   - name: KRISTEN KAWAGUCHI
     image_webp: ''
     image: "/images/kristen-ph.jpg"
