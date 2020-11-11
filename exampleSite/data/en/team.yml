@@ -3,6 +3,16 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: KRISTEN KAWAGUCHI
+    image_webp: ''
+    image: "/images/kristen-ph.jpg"
+    designation: WEST COAST PROJECT MANAGER
+    content: |+
+      Kristen comes to Revolución Marketing with over 11 years experience in National Account Management and Experiential Marketing Execution. She has managed, built and helped lead business functions for her client’s live marketing events and national promotional programs targeted toward the General and Hispanic markets.
+
+      Her experience working with some of the world’s most prominent brands, such as Anheseur-Busch, MillerCoors, Corona Extra, Warsteiner, Telemundo, Goya, Viva Mobil, Telcel America, McCormick and H&R Block, has helped Revolucion in exceeding client expectations on projects and activations by connecting brands with consumers through shared passion points of music, sports, and cultural pride. Her support helps clients grow and guide them to become culturally relevant with the Hispanic consumer.
+
+    social: ''
   - name: RALPH LICEA
     image_webp: ''
     image: "/images/ralph.jpg"
