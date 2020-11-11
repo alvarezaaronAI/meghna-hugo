@@ -46,12 +46,18 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: JOHANA CASTRO
+    image_webp: ''
+    image: "/images/johanna-castro.jpg"
+    designation: LIVE EVENTS PRODUCER
+    content: |-
+      Live Events Producer, Johana Castro hails from a background in video, film, theatre and music production. With a BBM from Montclair State University, Professional Studies in Entertainment Media Management & Production from NYU, and Professional Project Management Certification from Ramapo College, Johana has utilized her experience as one of the key players for multi recording labels. In connection with production, she has developed and managed Latin Grammy and Latin Billboards award winning music artists.
+
+      A successful company project manager, she has negotiated professional entertainment contracts from an independent to a multinational level for artists, presenting and recording affiliates such as Sony BMG, Warner Chapell, U/RTA, The Lincoln Center, American Ballet Theatre, Roundabout Theatre Co., Manhattan Theatre Club, The City of Vista, CA and The Juilliard School among others.
+
+      With great interest and passion for creating compelling consumer live experiences, Johana joined the Cardenas Marketing Network (CMN) in 2007 where she built a proven track record of success producing national experiential retail campaigns, mobile marketing tours, live music sponsorship tours, integrated sports marketing tours, and national product sampling programs for clients such as AnheuserBuschInBev, Chevrolet, Simple Mobile, Goya, AFM, Diageo, and others.
+
+      Johana is thrilled to announce her new home base and is excited to join the Revolución Marketing firm.
     social:
     - icon: ti-facebook
       link: "#"
