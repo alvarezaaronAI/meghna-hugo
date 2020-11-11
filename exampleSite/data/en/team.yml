@@ -96,17 +96,12 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: NATALIE CORREA
-    image_webp: ''
-    image: "/images/natalie.jpg"
-    designation: SR. PROJECT MANAGER
-    content: |2
-
-      Florida International University graduate, Natalie has over 11 years of experience building client relationships and leading integrated advertising, sponsorships and experiential marketing programs for top Fortune 500 brands including Procter & Gamble, Nestle, McDonald’s and Dr Pepper Snapple Group among others.
-
-      Natalie’s passion for the entertainment world is evident through her success in strategic ideation, management, live entertainment production and activation of brand sponsorships at national entertainment programs.
-
-      Her experience ranges from developing insight-driven platforms and programs to conceptualizing plans through the execution and production of properties.
+  - name: Mo. Kha. Alamgir
+    image_webp: images/team/team-4.webp
+    image: images/team/team-4.jpg
+    designation: SEO Specialist
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
+      ullam, culpa odio.
     social:
     - icon: ti-facebook
       link: "#"
