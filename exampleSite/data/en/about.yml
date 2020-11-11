@@ -1,16 +1,20 @@
-############################# About ###################################
+---
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: We Are
+  about_item:
+  - icon: ti-ruler-pencil
+    title: ''
+    content: Revolución Marketing is a full service, experiential and entertainment
+      agency that specializes in the creation, management and execution of unique
+      music programs that resonate with the Hispanic consumer.
+  - icon: ti-cup
+    title: ''
+    content: With a combined 40 years of multicultural and entertainment experience,
+      our leadership team has partnered with some of the world’s biggest brands and
+      global superstars to reach audiences, (successfully) through the power of music.
+  - icon: ti-thought
+    title: ''
+    content: Revolución Marketing is based in Chicago with offices in New York and
+      Los Angeles with teams throughout key markets including Dallas, Houston and
+      Miami.
