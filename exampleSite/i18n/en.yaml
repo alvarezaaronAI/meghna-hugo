@@ -13,8 +13,8 @@
   translation: Author's posts
 - id: all
   translation: All
-- id: weAre
-  translation: We Are
+- id: about
+  translation: About
 - id: services
   translation: Service
 - id: portfolio
