@@ -3,6 +3,15 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: RALPH LICEA
+    image_webp: ''
+    image: "/images/ralph.jpg"
+    designation: EAST COAST PROJECT MANAGER
+    content: |-
+      Ralph, a graduate of Bacone College, where he played collegiate baseball and double-majored in Business and Criminal Justice comes to Revolución Marketing with over 12 years’ experience in experiential, retail, sports, traditional and entertainment marketing. Ralph has a proven track record for execution and ROI to client’s such as: Kraft, Goya, Walmart, Diaego, Anheuser-Busch and Toyota among others. He also handled operations on several FIFA soccer matches, which include the Argentinean, Colombian and Haitian National teams. His most recent role focused on integrated marketing, sponsorship, production and entertainment for the Department of Defense and U.S. Customs and Border Protection.
+
+      A Miami born and raised Cuban, Ralph is very keen on the Hispanic market and has developed very good relationships with vendors and clients in South Florida. He will be an intricate Revolución team member in strengthening the relationship with our clients and maximizing brand exposure and ROI.
+    social: []
   - name: ANDREA BOTERO
     image_webp: ''
     image: "/images/bio-botero.jpg"
